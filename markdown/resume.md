@@ -1,100 +1,76 @@
-Johnny Coder
-============
+---
+papersize: A4
+title: Curriculum Vitae
+mainlang: it
+
+---
+
+
+# Your Name
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Avvocato, Ordine degli Avvocati di Qualsivoglia
+
+**Array**  
+_Array is an array_
+
+<http://array.eu>
+
+
+Piazza San Nazaro in Brolo 15 – 20122 Milano (Italy)
+
++39 02 8718 6019
+
++39 02 700 419282
+
+piana@array.eu
+
+
+Twitter, G+: @carlopiana
 
 ----
 
-Education
----------
+## Bio
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Nato a ...
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Residente a ...
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Lingue
 
-    *Minor: Awesomeology*
+**prima lingua**:
+:   con il duepunti all'inizio e due tab, diventa una lista di definizioni.
 
-Experience
-----------
+**Inglese**:
+:   Fluent
 
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+**Farsi**:
+:   Basic   
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+## Formazione e abilitazioni
+
+2018
+:   **Ultimo**; Requisiti maturati il
+24/07/2009
+
+1997
+:   **Penultimo**; il giorno ...
+
+1992
+:   **Laurea in Giurisprudenza**; _Cum laude_, Università degli Studi di Milano
+
+## Abstract
+
+Testo free flowing con paragrafi delimitati da una riga vuota. Ricordate **Bold** e _Italic_ scritti così.
+
+## Autore
+
+2018
+:   _Open Source, Sofware Libero e altre Libertà_. Ledizioni, Milano
+:   _Bitcoin: an open source currency and more_ – IFOSSLR (Piana, Carlo (2017), International Free and Open Source Software Law Review, 9(1), pp 35-43  DOI: 10.5033/ifosslr.v9i1.120)
+
+2017
+:   _Il Bitcoin, bolla o soufflé_ (Bitcoin, Bubble or Soufflé?) – Econopoly, il Sole 24Ore <http://www.econopoly.ilsole24ore.com/2017/12/17/bitcoin-bolla-o-souffle/>
