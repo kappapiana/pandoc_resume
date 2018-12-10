@@ -1,6 +1,10 @@
 The Markdown Resume
 ===================
 
+Heavily based on the work of mszep and forked from  https://github.com/mszep/pandoc_resume
+
+Made usable for an Italian cv with a few tweaks and touches to personal taste. Works on Ubuntu 18.04 but Pandoc needs to be updated to > 2.0.
+
 ### Instructions
 ```bash
 git clone https://github.com/mszep/pandoc_resume
